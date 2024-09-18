@@ -1,6 +1,5 @@
 # logic1
 
-
 ```
 <question>, 你先将这个问题分解问题的关键点是什么，
 然后根据问题的关键点，
@@ -22,3 +21,7 @@ Then follow the logic of reasoning in the smallest number of steps, the
 step-by-step reasoning algorithms to arrive at the result.
 Tell me the answer.
 ```
+
+Example:
+
+![](example/example_all.png)
