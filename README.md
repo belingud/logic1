@@ -13,10 +13,12 @@
 ```
 
 ```
-<question>, First, identify the key points of the problem.
-Then, based on these key points, develop a strategy to solve the problem.
-Determine which methods should be used to handle the issue.
-Next, apply this strategy to figure out how to logically deduce the answer.
-Follow the logical reasoning, using the minimum number of steps, to systematically work through the calculations and arrive at the solution.
-Please provide the answer.
+<question>, You start by breaking this down what the key points of the problem are, the
+Then based on the key points of the problem, the
+come up with ideas for solving this problem.
+What methods should be used to deal with the problem.
+and then use the ideas to figure out how to reason out the answer.
+Then follow the logic of reasoning in the smallest number of steps, the
+step-by-step reasoning algorithms to arrive at the result.
+Tell me the answer.
 ```
