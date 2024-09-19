@@ -1,27 +1,39 @@
 # logic1
 
 ```
-<question>, 你先将这个问题分解问题的关键点是什么，
-然后根据问题的关键点，
-想出这个问题的解决思路，
-应该运用什么方法来处理问题，
-然后运用思路得出如何推理出答案，
-然后根据推理逻辑按照最小的步数，
-逐步推理运算得出结果，
-告诉我答案
+<question>, 把这个问题分解成最小的单位，
+你需要自我验证，能否将问题继续分解，
+然后逐步推理运算得出结果，
+推理运算中，你要时刻记住前面推理的结果，
+直至得出最后结果
 ```
 
 ```
-<question>, You start by breaking this down what the key points of the problem are, the
-Then based on the key points of the problem, the
-come up with ideas for solving this problem.
-What methods should be used to deal with the problem.
-and then use the ideas to figure out how to reason out the answer.
-Then follow the logic of reasoning in the smallest number of steps, the
-step-by-step reasoning algorithms to arrive at the result.
-Tell me the answer.
+<question>, Step 1: break down the problem into its smallest units,
+Step 2: you need to self-verify that you can continue to break down the problem.
+Step 3: step by step reasoning operations to arrive at the result,
+reasoning operations,
+Note: During the step-by-step operations,
+you always need to keep in mind the results of the previous reasoning,
+until you arrive at the final result
 ```
 
 Example:
 
-![](example/example_all.png)
+Strawberry:
+
+![](example/example_strawberry_english.png)
+
+Float compare:
+
+![](example/example_math_english.png)
+
+In Chinese:
+
+Pretty good in understand worlds
+
+![](example/example_strawberry_cn.png)
+
+Math problem is not stable
+
+![](example/example_math_cn.png)
